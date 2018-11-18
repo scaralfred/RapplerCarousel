@@ -1,0 +1,50 @@
+.carousel .thumb img {
+    width: 100% !important;
+}
+
+.carousel {
+        text-align: center;
+        width: 80% !important;
+        margin: auto;
+}
+
+
+.carousel.carousel-slider {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.carousel .slide .legend {
+    opacity: 0.8;
+}
+
+.thumbs.animated {
+    padding-inline-start: 0px;
+}
+
+.title {
+    font-size: 1.8rem
+}
+
+.metadesc {
+    font-size: 1rem
+}
+
+.control-dots {
+    padding-inline-start: 0px;
+}
+
+ul {
+    padding-inline-start: 0px
+}
+
+@media (max-width: 950px) {
+    div.carousel {
+        display: none
+    }
+    .carousel, .carousel .slide img  {
+        width: 80% !important
+    }
+}
+
