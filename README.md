@@ -4,7 +4,7 @@ A react component that shows the latest news from Rappler => https://rappler-car
 
 How to embed it into an html page?
 
-1- Copy and paste this div inside your html file between your body tags (anywhere you like) to show the carousel =>
+1- Copy and paste this div inside your html file between the body tags (anywhere you like) to show the carousel =>
 
 < div id="rappler_carousel">< /div>
   
