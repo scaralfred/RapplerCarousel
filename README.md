@@ -1,6 +1,6 @@
 # RapplerCarousel
 
-A react component that shows the latest news from Rappler.
+A react component that shows the latest news from Rappler => https://rappler-carousel.herokuapp.com/
 
 How to embed it into an html page?
 
